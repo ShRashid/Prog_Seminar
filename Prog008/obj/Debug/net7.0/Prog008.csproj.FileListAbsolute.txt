@@ -1,0 +1,14 @@
+D:\PRG\С# new\Prog008\bin\Debug\net7.0\Prog008.exe
+D:\PRG\С# new\Prog008\bin\Debug\net7.0\Prog008.deps.json
+D:\PRG\С# new\Prog008\bin\Debug\net7.0\Prog008.runtimeconfig.json
+D:\PRG\С# new\Prog008\bin\Debug\net7.0\Prog008.dll
+D:\PRG\С# new\Prog008\bin\Debug\net7.0\Prog008.pdb
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.AssemblyInfoInputs.cache
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.AssemblyInfo.cs
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.csproj.CoreCompileInputs.cache
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.dll
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\refint\Prog008.dll
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.pdb
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\Prog008.genruntimeconfig.cache
+D:\PRG\С# new\Prog008\obj\Debug\net7.0\ref\Prog008.dll
