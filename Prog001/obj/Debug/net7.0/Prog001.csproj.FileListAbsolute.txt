@@ -12,3 +12,17 @@ D:\PRG\С# new\Prog001\obj\Debug\net7.0\refint\Prog001.dll
 D:\PRG\С# new\Prog001\obj\Debug\net7.0\Prog001.pdb
 D:\PRG\С# new\Prog001\obj\Debug\net7.0\Prog001.genruntimeconfig.cache
 D:\PRG\С# new\Prog001\obj\Debug\net7.0\ref\Prog001.dll
+F:\PRG\Prog_Seminar\Prog001\bin\Debug\net7.0\Prog001.exe
+F:\PRG\Prog_Seminar\Prog001\bin\Debug\net7.0\Prog001.deps.json
+F:\PRG\Prog_Seminar\Prog001\bin\Debug\net7.0\Prog001.runtimeconfig.json
+F:\PRG\Prog_Seminar\Prog001\bin\Debug\net7.0\Prog001.dll
+F:\PRG\Prog_Seminar\Prog001\bin\Debug\net7.0\Prog001.pdb
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.AssemblyInfoInputs.cache
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.AssemblyInfo.cs
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.csproj.CoreCompileInputs.cache
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.dll
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\refint\Prog001.dll
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.pdb
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\Prog001.genruntimeconfig.cache
+F:\PRG\Prog_Seminar\Prog001\obj\Debug\net7.0\ref\Prog001.dll

@@ -1,0 +1,14 @@
+F:\PRG\Prog_Seminar\Prog019\bin\Debug\net7.0\Prog019.exe
+F:\PRG\Prog_Seminar\Prog019\bin\Debug\net7.0\Prog019.deps.json
+F:\PRG\Prog_Seminar\Prog019\bin\Debug\net7.0\Prog019.runtimeconfig.json
+F:\PRG\Prog_Seminar\Prog019\bin\Debug\net7.0\Prog019.dll
+F:\PRG\Prog_Seminar\Prog019\bin\Debug\net7.0\Prog019.pdb
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.AssemblyInfoInputs.cache
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.AssemblyInfo.cs
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.csproj.CoreCompileInputs.cache
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.dll
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\refint\Prog019.dll
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.pdb
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\Prog019.genruntimeconfig.cache
+F:\PRG\Prog_Seminar\Prog019\obj\Debug\net7.0\ref\Prog019.dll

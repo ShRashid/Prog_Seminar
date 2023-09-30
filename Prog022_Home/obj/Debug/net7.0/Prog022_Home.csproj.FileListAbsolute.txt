@@ -1,0 +1,14 @@
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.AssemblyInfoInputs.cache
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.AssemblyInfo.cs
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.csproj.CoreCompileInputs.cache
+F:\PRG\Prog_Seminar\Prog022_Home\bin\Debug\net7.0\Prog022_Home.exe
+F:\PRG\Prog_Seminar\Prog022_Home\bin\Debug\net7.0\Prog022_Home.deps.json
+F:\PRG\Prog_Seminar\Prog022_Home\bin\Debug\net7.0\Prog022_Home.runtimeconfig.json
+F:\PRG\Prog_Seminar\Prog022_Home\bin\Debug\net7.0\Prog022_Home.dll
+F:\PRG\Prog_Seminar\Prog022_Home\bin\Debug\net7.0\Prog022_Home.pdb
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.dll
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\refint\Prog022_Home.dll
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.pdb
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\Prog022_Home.genruntimeconfig.cache
+F:\PRG\Prog_Seminar\Prog022_Home\obj\Debug\net7.0\ref\Prog022_Home.dll

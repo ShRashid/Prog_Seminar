@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PRG\\С# new\\Prog001\\Prog001.csproj": {}
+    "F:\\PRG\\Prog_Seminar\\Prog001\\Prog001.csproj": {}
   },
   "projects": {
-    "d:\\PRG\\С# new\\Prog001\\Prog001.csproj": {
+    "F:\\PRG\\Prog_Seminar\\Prog001\\Prog001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PRG\\С# new\\Prog001\\Prog001.csproj",
+        "projectUniqueName": "F:\\PRG\\Prog_Seminar\\Prog001\\Prog001.csproj",
         "projectName": "Prog001",
-        "projectPath": "d:\\PRG\\С# new\\Prog001\\Prog001.csproj",
-        "packagesPath": "C:\\Users\\r.f.sharafutdinov\\.nuget\\packages\\",
-        "outputPath": "d:\\PRG\\С# new\\Prog001\\obj\\",
+        "projectPath": "F:\\PRG\\Prog_Seminar\\Prog001\\Prog001.csproj",
+        "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
+        "outputPath": "F:\\PRG\\Prog_Seminar\\Prog001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\r.f.sharafutdinov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
