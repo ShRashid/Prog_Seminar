@@ -1,0 +1,14 @@
+F:\PRG\Prog_Seminar\Prog025_Work\bin\Debug\net7.0\Prog025_Work.exe
+F:\PRG\Prog_Seminar\Prog025_Work\bin\Debug\net7.0\Prog025_Work.deps.json
+F:\PRG\Prog_Seminar\Prog025_Work\bin\Debug\net7.0\Prog025_Work.runtimeconfig.json
+F:\PRG\Prog_Seminar\Prog025_Work\bin\Debug\net7.0\Prog025_Work.dll
+F:\PRG\Prog_Seminar\Prog025_Work\bin\Debug\net7.0\Prog025_Work.pdb
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.AssemblyInfoInputs.cache
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.AssemblyInfo.cs
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.csproj.CoreCompileInputs.cache
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.dll
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\refint\Prog025_Work.dll
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.pdb
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\Prog025_Work.genruntimeconfig.cache
+F:\PRG\Prog_Seminar\Prog025_Work\obj\Debug\net7.0\ref\Prog025_Work.dll
